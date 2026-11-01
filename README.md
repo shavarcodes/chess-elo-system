@@ -1,4 +1,4 @@
-#Chess club elo calculator
+# Chess club elo calculator
 This script is designed to register chess club members, calculate elo and record changes
 
 # Motivation
